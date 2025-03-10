@@ -3,7 +3,6 @@ I am have a strong interest in Artificial Intelligence and Machine Learning and 
 
 - 🔭 I’m currently on a journey to build **great** things
 - 🌱 I’m currently learning **everything** 🤓
-- 📫 How to reach me: izzannikola@student.ub.ac.id
 
 ## 🔥 Github Stats
 
