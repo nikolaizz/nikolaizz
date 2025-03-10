@@ -1,5 +1,5 @@
 ## 👋 Hi, I am Nikola 🤓
-I am a passionate Computer Engineering student with a strong interest in Artificial Intelligence and Machine Learning.
+I am have a strong interest in Artificial Intelligence and Machine Learning and passionate to learn new things.
 
 - 🔭 I’m currently on a journey to build **great** things
 - 🌱 I’m currently learning **everything** 🤓
