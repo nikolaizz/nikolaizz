@@ -1,4 +1,4 @@
-## 👋 Hi, I am Nikola 🤓
+## 👋 Hi, I am Nikola 
 I am have a strong interest in Artificial Intelligence and Machine Learning and passionate to learn new things.
 
 - 🔭 I’m currently on a journey to build **great** things
