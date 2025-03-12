@@ -10,3 +10,4 @@ I am have a strong interest in Artificial Intelligence and Machine Learning and 
 
   <a href="https://github.com/nikolaizz"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=nikolaizz&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"></a>
   <a href="https://github.com/nikolaizz"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikolaizz&theme=midnight-purple&hide_border=true"></a>
+  <a href="https://github.com/nikolaizz"><img width="50%" src="https://streak-stats.demolab.com?user=nikolaizz&theme=midnight-purple"></a>
