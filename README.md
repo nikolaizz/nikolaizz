@@ -6,8 +6,8 @@ I am have a strong interest in Artificial Intelligence and Machine Learning and 
 
 ## 🤝 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/nikolaizzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikolaizzan" height="30" width="40" /></a>
 <a href="https://instagram.com/nikola_izzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikola_izzan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikolaizzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikolaizzan" height="30" width="40" /></a>
 </p>
 
 ## 📊 Github Stats:
