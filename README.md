@@ -10,7 +10,7 @@
 </p>
 
 ## 📊 Github Stats:
-  <a href="https://github.com/nikolaizz"><img align="center" img height="184em" src="https://github-readme-stats.vercel.app/api?username=nikolaizz&theme=algolia&show_icons=true&hide_border=true&count_private=true"></a>
-  <a href="https://github.com/nikolaizz"><img align="center" img height="184em" src="https://nirzak-streak-stats.vercel.app?user=nikolaizz&theme=algolia&hide_border=true"></a>
+  <a href="https://github.com/nikolaizz"><img align="center" img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikolaizz&theme=algolia&show_icons=true&hide_border=true&count_private=true"></a>
+  <a href="https://github.com/nikolaizz"><img align="center" img height="180em" src="https://nirzak-streak-stats.vercel.app?user=nikolaizz&theme=algolia&hide_border=true"></a>
 
   <img align="center" width="90%" src="https://images4.alphacoders.com/138/1380052.png"/>
