@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Nikola!
 - 🤖 I have a strong interest in Artificial Intelligence and Machine Learning.
-- 🚀 I'm passionate about using data and innovative algorithms to solve real-world problems.
+- 🚀 I'm passionate about using data and innovative algorithms to solve real-world problems. 
 - 🌱 Always eager to learn and grow.
 
 ## 🤝 Connect with me:
