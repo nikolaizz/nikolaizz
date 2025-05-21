@@ -5,11 +5,12 @@
 - 📫 How to reach me **izzannikola@gmail.com**
 
 ### 🤝 Connect with me:
-![Static Badge](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&link=https%3A%2F%2Finstagram.com%2Fnikola_izzan)
-![Static Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff&link=izzannikola%40gmail.com)
-![Static Badge](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=ffffff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnikolaizzan%2F)
-![Static Badge](https://img.shields.io/badge/spotify-%231ED760?style=for-the-badge&logo=spotify&logoColor=ffffff&link=https%3A%2F%2Fopen.spotify.com%2Fuser%2Fzrpav93rxzk5izs7ubst2tw3p)
-![Static Badge](https://img.shields.io/badge/steam-%23000000?style=for-the-badge&logo=steam&logoColor=ffffff&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2Fnikolaizz14%2F)
+[<img alt="Nikola | GitHub" src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />][github]
+[<img alt="Nikola | Instagram" src="https://img.shields.io/badge/instagram-FF0069.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img alt="Nikola | Gmail" src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+[<img alt="Nikola | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="Nikola | Spotify" src="https://img.shields.io/badge/spotify-1ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
+[<img alt="Nikola | Steam" src="https://img.shields.io/badge/steam-000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />][steam]
 
 ---
 
@@ -48,3 +49,10 @@
 <div align="center">
   <img src="https://images4.alphacoders.com/138/1380052.png" alt="banner" width="50%"/>
 </div>
+
+[github]: https://github.com/nikolaizz  
+[instagram]: https://instagram.com/nikola_izzan  
+[gmail]: mailto:izzannikola@gmail.com  
+[linkedin]: https://www.linkedin.com/in/nikolaizzan  
+[spotify]: https://open.spotify.com/user/zrpav93rxzk5izs7ubst2tw3p  
+[steam]: https://steamcommunity.com/id/nikolaizz14/
