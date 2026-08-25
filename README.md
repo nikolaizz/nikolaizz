@@ -2,7 +2,7 @@
 - 🤖 I have a strong interest in Artificial Intelligence and Machine Learning.
 - 🚀 I'm passionate about using data and innovative algorithms to solve real-world problems. 
 - 🌱 Always eager to learn and grow.
-- 📫 How to reach me **izzannikola@gmail.com**
+- 📫 How to reach me: **izzannikola@gmail.com**
 
 ### 🤝 Connect with me
 [<img alt="Nikola | GitHub" src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />][github]
@@ -34,22 +34,6 @@
 
 ---
 
-### 📊 Github Stats
-<div align="center">
-  <a href="https://github.com/nikolaizz">
-<!--    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikolaizz&theme=algolia&show_icons=true&hide_border=true&count_private=true"/> =-->
-    <img height="200em" src="https://nirzak-streak-stats.vercel.app?user=nikolaizz&theme=algolia&hide_border=true"/>
-<!--    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaizz&layout=compact&theme=algolia&hide_border=true"/> -->
-  </a>
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <img src="https://images4.alphacoders.com/138/1380052.png" alt="banner" width="50%"/>
-</div>
 
 [github]: https://github.com/nikolaizz  
 [instagram]: https://instagram.com/nikola_izzan  
